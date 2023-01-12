@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.container {
+  background-color: #fff;
+  color: #000;
+  display: flex;
+  flex-direction: column;
+  font-family: Jua, sans-serif;
+  height: 100%;
+  margin: 0 auto;
+  max-width: 500px;
+}
